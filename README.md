@@ -177,3 +177,11 @@ SMOTE membuat data sintetis → tidak representatif untuk dashboard
 Dashboard = insight bisnis → harus real data
 
 Modeling = boleh pakai SMOTE, tapi visualisasi = data asli
+
+
+8. Insight Bisnis Final
+
+Berdasarkan seluruh analisis:
+
+Nasabah dengan income lebih tinggi, masa kerja panjang, usia produktif, dan stabilitas kepemilikan aset lebih mungkin disetujui kartu kredit. Faktor finansial (Total_income & Years_employed) menjadi penentu utama.
+Institusi dapat memprioritaskan calon nasabah dengan profil stabil ini untuk meningkatkan approval rate dan menurunkan risiko kredit.
